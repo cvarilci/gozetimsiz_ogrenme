@@ -1,0 +1,168 @@
+country,hier_cluster,kmeans_cluster,hdbscan_cluster,hier_cat,kmeans_cat,hdbscan_cat
+Afghanistan,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Albania,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Algeria,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Angola,1,0,-1,Hier 1,KMeans 0,Noise
+Antigua and Barbuda,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Argentina,1,2,-1,Hier 1,KMeans 2,Noise
+Armenia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Australia,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Austria,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Azerbaijan,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Bahamas,1,2,-1,Hier 1,KMeans 2,Noise
+Bahrain,1,2,-1,Hier 1,KMeans 2,Noise
+Bangladesh,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Barbados,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Belarus,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Belgium,1,1,-1,Hier 1,KMeans 1,Noise
+Belize,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Benin,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Bhutan,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Bolivia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Bosnia and Herzegovina,1,2,-1,Hier 1,KMeans 2,Noise
+Botswana,1,2,-1,Hier 1,KMeans 2,Noise
+Brazil,1,2,-1,Hier 1,KMeans 2,Noise
+Brunei,1,1,-1,Hier 1,KMeans 1,Noise
+Bulgaria,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Burkina Faso,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Burundi,1,0,-1,Hier 1,KMeans 0,Noise
+Cambodia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Cameroon,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Canada,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Cape Verde,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Central African Republic,1,0,-1,Hier 1,KMeans 0,Noise
+Chad,1,0,-1,Hier 1,KMeans 0,Noise
+Chile,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+China,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Colombia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Comoros,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+"Congo, Dem. Rep.",1,0,-1,Hier 1,KMeans 0,Noise
+"Congo, Rep.",1,0,-1,Hier 1,KMeans 0,Noise
+Costa Rica,1,2,-1,Hier 1,KMeans 2,Noise
+Cote d'Ivoire,1,0,-1,Hier 1,KMeans 0,Noise
+Croatia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Cyprus,1,1,-1,Hier 1,KMeans 1,Noise
+Czech Republic,1,1,2,Hier 1,KMeans 1,HDBSCAN 2
+Denmark,1,1,-1,Hier 1,KMeans 1,Noise
+Dominican Republic,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Ecuador,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Egypt,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+El Salvador,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Equatorial Guinea,1,0,-1,Hier 1,KMeans 0,Noise
+Eritrea,1,0,-1,Hier 1,KMeans 0,Noise
+Estonia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Fiji,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Finland,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+France,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Gabon,1,0,-1,Hier 1,KMeans 0,Noise
+Gambia,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Georgia,1,2,-1,Hier 1,KMeans 2,Noise
+Germany,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Ghana,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Greece,1,1,-1,Hier 1,KMeans 1,Noise
+Grenada,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Guatemala,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Guinea,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Guinea-Bissau,1,0,-1,Hier 1,KMeans 0,Noise
+Guyana,1,2,-1,Hier 1,KMeans 2,Noise
+Haiti,1,0,-1,Hier 1,KMeans 0,Noise
+Hungary,1,2,-1,Hier 1,KMeans 2,Noise
+Iceland,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+India,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Indonesia,1,2,-1,Hier 1,KMeans 2,Noise
+Iran,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Iraq,1,0,-1,Hier 1,KMeans 0,Noise
+Ireland,1,1,-1,Hier 1,KMeans 1,Noise
+Israel,1,1,-1,Hier 1,KMeans 1,Noise
+Italy,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Jamaica,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Japan,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Jordan,1,2,-1,Hier 1,KMeans 2,Noise
+Kazakhstan,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Kenya,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Kiribati,1,0,-1,Hier 1,KMeans 0,Noise
+Kuwait,1,1,-1,Hier 1,KMeans 1,Noise
+Kyrgyz Republic,1,2,-1,Hier 1,KMeans 2,Noise
+Lao,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Latvia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Lebanon,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Lesotho,1,0,-1,Hier 1,KMeans 0,Noise
+Liberia,1,0,-1,Hier 1,KMeans 0,Noise
+Libya,1,2,-1,Hier 1,KMeans 2,Noise
+Lithuania,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Luxembourg,0,1,-1,Hier 0,KMeans 1,Noise
+"Macedonia, FYR",1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Madagascar,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Malawi,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Malaysia,1,2,-1,Hier 1,KMeans 2,Noise
+Maldives,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Mali,1,0,-1,Hier 1,KMeans 0,Noise
+Malta,1,1,-1,Hier 1,KMeans 1,Noise
+Mauritania,1,0,-1,Hier 1,KMeans 0,Noise
+Mauritius,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+"Micronesia, Fed. Sts.",1,2,-1,Hier 1,KMeans 2,Noise
+Moldova,1,2,-1,Hier 1,KMeans 2,Noise
+Mongolia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Montenegro,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Morocco,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Mozambique,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Myanmar,1,2,-1,Hier 1,KMeans 2,Noise
+Namibia,1,0,-1,Hier 1,KMeans 0,Noise
+Nepal,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Netherlands,1,1,-1,Hier 1,KMeans 1,Noise
+New Zealand,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Niger,1,0,-1,Hier 1,KMeans 0,Noise
+Nigeria,1,0,-1,Hier 1,KMeans 0,Noise
+Norway,1,1,-1,Hier 1,KMeans 1,Noise
+Oman,1,2,-1,Hier 1,KMeans 2,Noise
+Pakistan,1,0,-1,Hier 1,KMeans 0,Noise
+Panama,1,2,-1,Hier 1,KMeans 2,Noise
+Paraguay,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Peru,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Philippines,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Poland,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Portugal,1,1,-1,Hier 1,KMeans 1,Noise
+Qatar,0,1,-1,Hier 0,KMeans 1,Noise
+Romania,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Russia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Rwanda,1,0,-1,Hier 1,KMeans 0,Noise
+Samoa,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Saudi Arabia,1,2,-1,Hier 1,KMeans 2,Noise
+Senegal,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Serbia,1,2,-1,Hier 1,KMeans 2,Noise
+Seychelles,1,2,-1,Hier 1,KMeans 2,Noise
+Sierra Leone,1,0,-1,Hier 1,KMeans 0,Noise
+Singapore,0,1,-1,Hier 0,KMeans 1,Noise
+Slovak Republic,1,2,-1,Hier 1,KMeans 2,Noise
+Slovenia,1,1,-1,Hier 1,KMeans 1,Noise
+Solomon Islands,1,0,-1,Hier 1,KMeans 0,Noise
+South Africa,1,2,-1,Hier 1,KMeans 2,Noise
+South Korea,1,1,-1,Hier 1,KMeans 1,Noise
+Spain,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Sri Lanka,1,2,-1,Hier 1,KMeans 2,Noise
+St. Vincent and the Grenadines,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Sudan,1,0,-1,Hier 1,KMeans 0,Noise
+Suriname,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Sweden,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+Switzerland,1,1,-1,Hier 1,KMeans 1,Noise
+Tajikistan,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Tanzania,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Thailand,1,2,-1,Hier 1,KMeans 2,Noise
+Timor-Leste,1,0,-1,Hier 1,KMeans 0,Noise
+Togo,1,0,-1,Hier 1,KMeans 0,Noise
+Tonga,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Tunisia,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Turkey,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Turkmenistan,1,2,-1,Hier 1,KMeans 2,Noise
+Uganda,1,0,-1,Hier 1,KMeans 0,Noise
+Ukraine,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+United Arab Emirates,1,1,-1,Hier 1,KMeans 1,Noise
+United Kingdom,1,1,0,Hier 1,KMeans 1,HDBSCAN 0
+United States,1,1,-1,Hier 1,KMeans 1,Noise
+Uruguay,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Uzbekistan,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Vanuatu,1,2,2,Hier 1,KMeans 2,HDBSCAN 2
+Venezuela,1,2,-1,Hier 1,KMeans 2,Noise
+Vietnam,1,2,-1,Hier 1,KMeans 2,Noise
+Yemen,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
+Zambia,1,0,1,Hier 1,KMeans 0,HDBSCAN 1
