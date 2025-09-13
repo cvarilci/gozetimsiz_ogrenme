@@ -1,0 +1,1 @@
+# gozetimsiz_ogrenme
